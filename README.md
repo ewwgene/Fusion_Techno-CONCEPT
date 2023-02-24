@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
 ## Fusion_Techno-CONCEPT. _2020.05-2020.09._
-![[Fusion_Techno-CONCEPT](/100.jpg)](https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel)<a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#101"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#103"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/103.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#105"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#111"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/111.jpg" height="66"></a> 
+[![Fusion_Techno-CONCEPT](/100.jpg)](https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel)<a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#101"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#103"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/103.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#105"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg" height="66"></a> <a href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#111"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/111.jpg" height="66"></a> 
 <br>
 **Overview**
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)
