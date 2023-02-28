@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_DESIGN_ /](https://ewwgene.github.io/DESIGN) Fusion_Techno-CONCEPT
 
-[![Fusion_Techno-CONCEPT](/100.jpg)](https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel)<a id="101" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#101"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/101.jpg" height="66"></a> <a id="103" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#103"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/103.jpg" height="66"></a> <a id="105" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#105"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#111"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/111.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Fusion_Techno-CONCEPT](/100.jpg)](https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel)<br> <a id="101" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#101"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/101.jpg" height="66"></a> <a id="103" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#103"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/103.jpg" height="66"></a> <a id="105" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#105"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/105.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#111"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/111.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="400" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#400"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/400.jpg" height="66"></a> 
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
