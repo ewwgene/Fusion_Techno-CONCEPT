@@ -1,9 +1,9 @@
 {
     "date": ["2020.05", "2020.09"],
-    "medium": ["DESIGN SERIES", "SCULPTURE"],
-    "material": ["SOLID_PINE_WOOD", "PLASTER"],
-    "hardware": ["SLIT-SCAN_PHOTOGRAPHY"],
-    "software": ["HOUDINI_+_VOP&VEX", "MESHLAB" ,"AUTODESK_MAYA_+_RIGGING", "PROCESSING"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "medium": ["DESIGN SERIES", "SCULPTURE", "STORAGE"],
+    "material": "",
+    "hardware": ["3D_SCANNING"],
+    "software": ["HOUDINI", "MESHLAB"],
+    "overview": "Концепт для серии предметов мебели с фасадами.",
+    "making": "Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры фасадов."
 }
