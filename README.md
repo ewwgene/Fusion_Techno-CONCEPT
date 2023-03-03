@@ -12,7 +12,7 @@
 
 _`HOUDINI`_ _`MESHLAB`_  _**`3D_SCANNING`**_ 
 
-Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры фасадов.
+
 
 <a id="400" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#400"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/400.jpg" height="66"></a> 
 

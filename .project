@@ -5,5 +5,5 @@
     "hardware": ["3D_SCANNING"],
     "software": ["HOUDINI", "MESHLAB"],
     "overview": "Концепт для серии предметов мебели с фасадами.",
-    "making": "Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_ использует отсканированные _**`3D_SCANNING`**_  участки архитектурного декора для создания текстуры фасадов."
+    "making": ""
 }
