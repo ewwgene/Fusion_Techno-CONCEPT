@@ -1,6 +1,6 @@
 {
     "date": ["2020.05", "2020.09"],
-    "medium": ["DESIGN SERIES", "SCULPTURE", "STORAGE"],
+    "medium": ["DESIGN_SERIES", "SCULPTURE", "STORAGE"],
     "material": "",
     "hardware": ["3D_SCANNING"],
     "software": ["HOUDINI", "MESHLAB"],

@@ -16,7 +16,7 @@ _`HOUDINI`_ _`MESHLAB`_  _**`3D_SCANNING`**_
 
 <a id="400" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#400"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/400.jpg" height="66"></a> 
 
-_`DESIGN SERIES`_ _`SCULPTURE`_ _`STORAGE`_ 
+_`DESIGN_SERIES`_ _`SCULPTURE`_ _`STORAGE`_ 
 
 <br> 
 
