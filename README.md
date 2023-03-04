@@ -12,7 +12,7 @@
 
 _`HOUDINI`_ _`MESHLAB`_  _**`3D_SCANNING`**_ 
 
-[_Slit-Scan_ алгоритм](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_.
+Алгоритм [_Slit-Scan_](https://ewwgene.github.io/Slit-Scan) для _`HOUDINI`_.
 
 <a id="400" href="https://ewwgene.github.io/Fusion_Techno-CONCEPT/Carousel/#400"><img src="https://ewwgene.github.io/Fusion_Techno-CONCEPT/400.jpg" height="66"></a> 
 
