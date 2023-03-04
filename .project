@@ -4,6 +4,6 @@
     "material": "",
     "hardware": ["3D_SCANNING"],
     "software": ["HOUDINI", "MESHLAB"],
-    "overview": "Концепт для серии предметов мебели с фасадами.",
-    "making": ""
+    "overview": "Концепт серии предметов мебели с фасадами.",
+    "making": "[_Slit-Scan_ алгоритм](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM) для _`HOUDINI`_."
 }
